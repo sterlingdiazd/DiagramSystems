@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Crear Diagrama";
+    
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title.<br>
+    </h1>
+    <h4>@ViewBag.Message</h4>
+</hgroup>
+
+
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#createElementModal" data-whatever="" id="createElementButton">Crear Elemento</button>
+
+<div class="modal fade" id="createElementModal" tabindex="-1" role="dialog" aria-labelledby="createElementLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Crear Elemento</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="formularioCreateElement">
+                    <div class="form-group">
+                        <div class="input-group">
+                            <label for="selectOfficeBranch">Oficina: </label>
+                            <input type="text" class="form-control" placeholder="Seleccione oficina" id="selectOfficeBranch">
+                            <label for="selectQuestion">Pregunta: </label>
+                            <input type="text" class="form-control" placeholder="Seleccione la pregunta por nombre" id="selectQuestion">
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" id="btnCreateElement">Send message</button>
+            </div>
+        </div>
+    </div>
+</div>
+

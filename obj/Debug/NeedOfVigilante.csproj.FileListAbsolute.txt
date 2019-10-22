@@ -1,0 +1,598 @@
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\NeedOfVigilante.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\NeedOfVigilante.pdb
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\Antlr3.Runtime.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.Core.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\EntityFramework.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.Edm.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.OData.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\Newtonsoft.Json.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Net.Http.Formatting.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Spatial.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Helpers.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.OData.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.WebHost.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Mvc.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Optimization.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Razor.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Razor.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\WebGrease.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.Data.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.WebData.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\EntityFramework.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\Newtonsoft.Json.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Net.Http.Formatting.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Helpers.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.WebHost.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Mvc.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Razor.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Razor.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.Data.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.WebData.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.Core.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.OData.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.Edm.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.OData.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\System.Spatial.xml
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\de\System.Spatial.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\es\System.Spatial.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\fr\System.Spatial.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\it\System.Spatial.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\ja\System.Spatial.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\ko\System.Spatial.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\ru\System.Spatial.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.dll
+C:\Users\SMDiaz\documents\visual studio 2012\Projects\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.pdb
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\NeedOfVigilante.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\NeedOfVigilante.pdb
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\Antlr3.Runtime.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.Core.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\EntityFramework.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.Edm.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.OData.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\Newtonsoft.Json.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Net.Http.Formatting.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Spatial.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Helpers.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.OData.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.WebHost.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Mvc.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Optimization.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Razor.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Razor.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\WebGrease.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.Data.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.WebData.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\EntityFramework.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\Newtonsoft.Json.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Net.Http.Formatting.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Helpers.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.WebHost.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Mvc.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Razor.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Razor.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.Data.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.WebData.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.Core.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.OData.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.Edm.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.OData.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\System.Spatial.xml
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\de\System.Spatial.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\es\System.Spatial.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\fr\System.Spatial.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\it\System.Spatial.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\ja\System.Spatial.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\ko\System.Spatial.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\ru\System.Spatial.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.csprojResolveAssemblyReference.cache
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.dll
+C:\Users\ssuero\Desktop\Escritorio\Sistemas en Desarrollo\NeedOfVigilante_26_09_2017\NeedOfVigilante06-10-2017\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.pdb
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\NeedOfVigilante.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\NeedOfVigilante.pdb
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Antlr3.Runtime.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.AspNet.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.Core.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.Consumer.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\EntityFramework.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.Edm.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.OData.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.Infrastructure.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.WebPages.OAuth.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Newtonsoft.Json.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Net.Http.Formatting.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Spatial.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Helpers.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.OData.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.WebHost.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Mvc.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Optimization.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Razor.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Deployment.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Razor.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\WebGrease.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.Data.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.WebData.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\EntityFramework.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Newtonsoft.Json.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Net.Http.Formatting.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Helpers.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.WebHost.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Mvc.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Razor.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Deployment.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Razor.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.Data.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.WebPages.OAuth.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.WebData.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.AspNet.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.Core.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.Consumer.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.OData.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.Edm.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.OData.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Spatial.xml
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\de\Microsoft.Data.Edm.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\es\Microsoft.Data.Edm.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\fr\Microsoft.Data.Edm.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\it\Microsoft.Data.Edm.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\ja\Microsoft.Data.Edm.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\ko\Microsoft.Data.Edm.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\ru\Microsoft.Data.Edm.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\de\Microsoft.Data.OData.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\es\Microsoft.Data.OData.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\fr\Microsoft.Data.OData.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\it\Microsoft.Data.OData.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\ja\Microsoft.Data.OData.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\ko\Microsoft.Data.OData.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\ru\Microsoft.Data.OData.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\de\System.Spatial.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\es\System.Spatial.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\fr\System.Spatial.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\it\System.Spatial.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\ja\System.Spatial.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\ko\System.Spatial.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\ru\System.Spatial.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\System.Spatial.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\System.Spatial.resources.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.csprojResolveAssemblyReference.cache
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.dll
+Z:\GMSIT\Desarrollos\Proyectos\SistemaMantenimientoDiagramas (NeedOfVigilante)\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.pdb
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\NeedOfVigilante.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\NeedOfVigilante.pdb
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Antlr3.Runtime.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.Core.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\EntityFramework.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.Edm.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.OData.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Newtonsoft.Json.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Net.Http.Formatting.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Spatial.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Helpers.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.OData.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.WebHost.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Mvc.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Optimization.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Razor.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Razor.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\WebGrease.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.Data.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.WebData.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\EntityFramework.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Newtonsoft.Json.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Net.Http.Formatting.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Helpers.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.WebHost.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Mvc.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Razor.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Razor.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.Data.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.WebData.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.Core.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.OData.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.Edm.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.OData.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\System.Spatial.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\de\System.Spatial.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\es\System.Spatial.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\fr\System.Spatial.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\it\System.Spatial.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\ja\System.Spatial.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\ko\System.Spatial.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\ru\System.Spatial.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.pdb
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_09_10_2017_v1\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.csprojResolveAssemblyReference.cache
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\NeedOfVigilante.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\NeedOfVigilante.pdb
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\Antlr3.Runtime.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.Core.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\EntityFramework.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.Edm.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.OData.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\Newtonsoft.Json.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Net.Http.Formatting.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Spatial.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Helpers.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.OData.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.WebHost.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Mvc.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Optimization.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Razor.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Razor.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\WebGrease.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.Data.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.WebData.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\EntityFramework.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\Newtonsoft.Json.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Net.Http.Formatting.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Helpers.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.WebHost.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Mvc.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Razor.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Razor.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.Data.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.WebData.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.Core.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.OData.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.Edm.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.OData.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\System.Spatial.xml
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\de\System.Spatial.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\es\System.Spatial.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\fr\System.Spatial.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\it\System.Spatial.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\ja\System.Spatial.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\ko\System.Spatial.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\ru\System.Spatial.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.dll
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.pdb
+C:\Users\SMDiaz\Documents\Visual Studio 2012\Projects\NeedOfVigilante_Oficial_Version\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.csprojResolveAssemblyReference.cache
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\NeedOfVigilante.dll.config
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\NeedOfVigilante.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\NeedOfVigilante.pdb
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\Antlr3.Runtime.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.Core.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\EntityFramework.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.Edm.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.OData.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\Newtonsoft.Json.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Net.Http.Formatting.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Spatial.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Helpers.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.OData.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.WebHost.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Mvc.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Optimization.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Razor.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\WebGrease.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.Data.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.WebData.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\EntityFramework.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\Newtonsoft.Json.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Net.Http.Formatting.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Helpers.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.WebHost.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Mvc.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Razor.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.Data.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.WebData.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.Core.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.OData.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.Edm.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.OData.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\System.Spatial.xml
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\de\System.Spatial.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\es\System.Spatial.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\fr\System.Spatial.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\it\System.Spatial.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\ja\System.Spatial.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\ko\System.Spatial.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\ru\System.Spatial.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.csprojResolveAssemblyReference.cache
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.dll
+C:\Users\Sterling\Downloads\NeedOfVigilante2018-03-01\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.pdb
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\NeedOfVigilante.dll.config
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\NeedOfVigilante.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\NeedOfVigilante.pdb
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\Antlr3.Runtime.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.Core.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\EntityFramework.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.Edm.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.OData.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\Newtonsoft.Json.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Net.Http.Formatting.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Spatial.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Helpers.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.OData.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.WebHost.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Mvc.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Optimization.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Razor.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\WebGrease.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.Data.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.WebData.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\EntityFramework.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\Newtonsoft.Json.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Net.Http.Formatting.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Helpers.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.WebHost.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Mvc.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Razor.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.Data.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\WebMatrix.WebData.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.Core.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Web.Http.OData.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.Edm.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\Microsoft.Data.OData.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\System.Spatial.xml
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\de\System.Spatial.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\es\System.Spatial.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\fr\System.Spatial.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\it\System.Spatial.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\ja\System.Spatial.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\ko\System.Spatial.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\ru\System.Spatial.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.csprojResolveAssemblyReference.cache
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.dll
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.pdb
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.csproj.CoreCompileInputs.cache
+C:\Users\Sterling\Desktop\Proyectos\NeedOfVigilante\NeedOfVigilante\obj\Debug\NeedOfVigilante.csproj.CopyComplete

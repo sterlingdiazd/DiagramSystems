@@ -1,0 +1,51 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <link href="@Url.Content("~/Images/Logo_Banreservas_Blue.ico")" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    @Styles.Render("~/Content/css")
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+    @Scripts.Render("~/bundles/bootstrapjs")
+    @Scripts.Render("~/bundles/librariesjs")
+    @Scripts.Render("~/bundles/myscripts")
+    
+</head>
+<body style="background-color: rgb(37,77,113);">
+    <header style="background-color:rgb(37,77,113)">
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p class="site-title"><img src="@Url.Content("~/Images/logoBanco.png")" style="height:80px;margin-left:-18%"  /></p>
+            </div>
+            <div class="float-right">
+                <section id="login">
+               @*@Html.Partial("_LoginPartial")*@
+                </section>
+                <nav>
+                    @Html.Partial("_Menu")
+                </nav>
+            </div>
+        </div>
+    </header>
+    <div id="body">
+        <section class="content-wrapper main-content clear-fix">
+            @RenderBody()
+        </section>
+    </div>
+    <div id="modal-container" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-content">
+        </div>
+    </div>
+    <footer class="footer" style="background-color: rgb(37,77,113);padding-bottom:5%;text-align:center;">      
+        <div style="text-align:center;">
+            <p style="color:#fff;margin-left:2%;text-align:center;">
+                @DateTime.Now.Year &copy; Banreservas. Dirección General de Seguridad
+            </p>
+        </div>    
+    </footer>  
+</body>
+</html>

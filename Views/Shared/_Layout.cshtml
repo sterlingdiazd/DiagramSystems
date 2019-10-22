@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--Author: Sterling Díaz -- sterlingdiazd@gmail.com-->
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <link href="@Url.Content("~/Images/Logo_Banreservas_Blue.ico")" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    @Styles.Render("~/Content/css")
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap.js")
+    @Scripts.Render("~/bundles/librariesjs")
+    @Scripts.Render("~/bundles/myscripts.js")
+    @RenderSection("scripts", required: false)
+
+
+</head>
+<body>
+
+    <div class="container-fluid header_contenedor">
+        <div class="container-fluid">
+            <div class="row ">
+                <div class="col-xs-12 col-md-2 columnaHeaderLeft">
+                    <p class="logoApp ">
+                        <img class="img-responsive" src="@Url.Content("~/Images/icono-banreservas-blanco.png")"  />
+                    </p>
+                </div>
+
+                <div class="col-xs-12 col-md-7 columnaHeaderCenter">
+                    <h2 class="text-uppercase tituloPagina">Sistema de Diagramas</h2>
+                </div>
+
+                <div class="col-xs-12 col-md-3 columnaHeaderRight text-right">
+
+                    <ul class="nav nav-pills">
+                        <li role="presentation" class="">
+                            <a id="buttonRunHome"  class="btn active btn-info navbar-btn">Home</a></li>
+                        <li role="presentation">
+                            <a id="buttonRunDiagram"  class="btn btn-info navbar-btn">Evaluar</a></li>
+                        <li role="presentation">
+                            <a id="buttonRunResults"  class="btn btn-info navbar-btn">Resultados <span class="badge"></span></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @RenderBody()
+
+    <div class="container-fluid footer  navbar-fixed-bottom">
+        <div class="row">
+            <div class="col-12">
+                <div id="modal-container" class="modal fade" tabindex="-1" role="dialog">
+                    <div class="modal-content">
+                    </div>
+                </div>
+                <footer>
+                    <span>@DateTime.Now.Year &copy; Banreservas. Dirección General de Seguridad</span>
+                </footer>
+            </div>
+        </div>
+    </div>
+    </div>
+</body>
+</html>

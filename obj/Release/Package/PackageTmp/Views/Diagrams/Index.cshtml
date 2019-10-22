@@ -1,0 +1,325 @@
+﻿@{
+    ViewBag.Title = "Diagramas";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model IEnumerable<NeedOfVigilante.Models.DiagramTable>
+
+<div id="diagramMaintenance">
+    <h2>Mantenimiento de Diagramas</h2>
+    <button id="buttonRunDiagram" type="button" class="btn btn-success glyphicon glyphicon-play-circle">Correr</button>
+</div>
+
+<div id="containerDiagramSections" class="container-fluid">
+    <div class="row">
+
+        <div class="col-sm-4 columnas">
+            <div class="fieldset">
+                <div class="titulo"><span>Diagramas</span></div>
+                <div class="col-sm-6 maintenancePanelSearch">
+                    <input type="text" class="form-control" placeholder="Buscar Diagrama">
+                </div>
+                <div class="col-sm-6 maintenancePanel">
+                    <button type="button" class="btn btn-info glyphicon glyphicon-plus" data-toggle="modal" id="createDiagramButton"></button>
+                    <button type="button" class="btn btn-secondar glyphicon glyphicon-pencil" id="editDiagramButton"></button>
+                    <button type="button" class="btn btn-danger glyphicon glyphicon-remove" id="deleteDiagramButton"></button>
+                </div>
+                <div class="fieldsetContent">
+                    <table id="DiagramsTable" class="table table-striped cell-border table-hover table-responsive">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>Nombre</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-4 columnas">
+            <div class="fieldset">
+                <div class="titulo"><span>Elementos</span></div>
+
+                <div class="col-sm-6 maintenancePanelSearch">
+                    <input type="text" class="form-control" placeholder="Buscar Elemento">
+                </div>
+                <div class="col-sm-6 maintenancePanel">
+                    <button type="button" class="btn btn-info glyphicon glyphicon-plus" data-toggle="modal" id="createElementButton"></button>
+                    <button type="button" class="btn btn-secondar glyphicon glyphicon-pencil" id="editElementButton"></button>
+                    <button type="button" class="btn btn-danger glyphicon glyphicon-remove" id="deleteElementButton"></button>
+                </div>
+                <div class="fieldsetContent">
+                    <table id="elementsTable" class="table table-striped cell-border table-hover table-responsive">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>IdDiagrama</th>
+                                <th>Diagrama</th>
+                                <th>Pregunta</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-4 columnas">
+            <div class="fieldset">
+                <div class="titulo"><span>Salidas</span></div>
+                <div class="col-sm-6 maintenancePanelSearch">
+                    <input type="text" class="form-control" placeholder="Buscar Salida">
+                </div>
+                <div class="col-sm-6 maintenancePanel">
+                    <button type="button" class="btn btn-info glyphicon glyphicon-plus" data-toggle="modal" id="createOutcomeButton"></button>
+                    <button type="button" class="btn btn-secondar glyphicon glyphicon-pencil" id="editOutcomeButton"></button>
+                    <button type="button" class="btn btn-danger glyphicon glyphicon-remove" id="deleteOutcomeButton"></button>
+                </div>
+                <div class="fieldsetContent">
+                    <table id="outcomesTable" class="table table-striped cell-border table-hover">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>idElement</th>
+                                <th>outputType</th>
+                                <th>idExpression</th>
+                                <th>Valor</th>
+                                <th>idNextElement</th>
+                                <th>Próxima Pregunta</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<div id="preloader">
+  <div id="loader"></div>
+</div>
+
+
+<div class="modal fade" id="createDiagramModal" tabindex="-1" role="dialog" aria-labelledby="createDiagramLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="DiagramModalLabel">Crear Diagrama</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="formularioCreateDiagram">
+                    <div class="form-group">
+                        <label for="inputDiagramName">Nombre:</label>
+                        <input type="text" class="form-control" placeholder="Nombre" id="inputDiagramName">
+                        <br />
+
+                         <table id="OfficeTable" class="table table-striped cell-border table-hover table-responsive">
+                            <thead>
+                                <tr>
+                                    <th>IdOficina</th>
+                                    <th>Oficina</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-primary" id="btnCreateDiagram">Guardar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!--            
+<div class="modal fade" id="EditDiagramModal" tabindex="-1" role="dialog" aria-labelledby="createDiagramLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="EditDiagramModalLabel">Editar Diagrama</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="formularioEditDiagram">
+                    <div class="form-group">
+                        <label for="inputDiagramName">Nombre:</label>
+                        <input type="text" class="form-control" placeholder="Nombre" id="inputEditDiagramName">
+                        <br />
+
+                         <table id="OfficeTable" class="table table-striped cell-border table-hover table-responsive">
+                            <thead>
+                                <tr>
+                                    <th>IdOficina</th>
+                                    <th>Oficina</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-primary" id="btnEditDiagram">Guardar</button>
+            </div>
+        </div>
+    </div>
+</div>
+-->
+<div class="modal fade" id="createElementModal" tabindex="-1" role="dialog" aria-labelledby="createElementLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="ElementModalLabel">Crear Elemento</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="formularioCreateElement">
+                    <div class="form-group">
+
+                        <label for="inputDiagramName">Diagrama:</label>
+                        <input type="text" class="form-control" disabled id="inputDiagramNameSelected"><br />
+
+                        <label for="inputDiagramName">Tipo de Elemento:</label><br />
+
+                        <div id="elementTypeRadioButtonDiv" class="btn-group" data-toggle="buttons">
+                            <label class="btn btn-info btn-rounded active">
+                                <input type="radio" name="options" id="option1"  value="Pregunta" checked>
+                                Pregunta
+                            </label>
+                            <label class="btn btn-info btn-rounded">
+                                <input type="radio" name="options" id="option2"  value="Categoria">
+                                Categoría
+                            </label>
+                            <label class="btn btn-info btn-rounded">
+                                <input type="radio" name="options" id="option2"" value="Resultado">
+                                Resultado
+                            </label>
+                        </div>
+                         <br />
+           
+                        <input type="text" class="form-control" placeholder="Escriba pregunta" id="inputSearchElement" name="Pregunta">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-primary" id="btnCreateElement">Guardar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="modal fade" id="createOutcomeModal" tabindex="-1" role="dialog" aria-labelledby="createOutcomeLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="OutcomeModalLabel">Crear Salida</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="formularioCreateOutcome">
+                    <div class="form-group">
+
+                        <br />
+                        <label for="inputElementNameSelected">Elemento: </label>
+                        <input type="text" class="form-control" disabled id="inputElementNameSelected">
+
+                        <br />
+                        <label for="inputExpressionType">Tipo Salida: </label>
+                        <!--input type="text" class="form-control" id="inputExpressionType"-->
+                        <br />
+                        @Html.DropDownList("ExpressionTypes", "Seleccionar...")
+                        <div id="ExpressionTypesDiv">
+                            <div id="NumericValueDiv" class="hidden">
+                                <br>
+                                <label for="inputNumericValue">Valor: </label>
+                                <input type="number" class="form-control" id="inputNumericValue">
+                            </div>
+
+                            <div id="AphabeticValueDiv" class="hidden">
+                                <br>
+                                @Html.DropDownList("YesOrNoType")
+                                <br>
+                            </div>
+                            <div id="ComparisonDiv" class="hidden">
+                                <br>
+                                <input type="text" class=" form-control OneThirdWidth" disabled="" value="x">
+                                @Html.DropDownList("idComparisonOperator", (SelectList)ViewBag.OperatorSymbol)
+                                <input type="number" class="form-control OneThirdWidth" id="inputknownValue" required>
+                                <br>
+                                <br>
+                            </div>
+                            <div id="RangeDiv" class="hidden">
+                                <br>
+                                <input type="number" class="form-control OneFithWidth" id="inputFirstKnownValue" required>
+                                @Html.DropDownList("idFirstComparisonOperator", (SelectList)ViewBag.OperatorSymbol)
+                                <input type="text" class=" form-control OneFithWidth" id="inputRangeUnknownValue" disabled="" value="x">
+                                @Html.DropDownList("idSecondComparisonOperator", (SelectList)ViewBag.OperatorSymbol)
+                                <input type="number" class="form-control OneFithWidth" id="inputSecondknownValue" required>
+                                <br>
+                                <br>
+                            </div>
+                        </div>
+                        <br>
+                        <label for="inputNextElementId">Conectar con Elemento... </label>
+                        <input type="text" class="form-control" placeholder="Seleccione pregunta" id="inputNextElementId" required>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-primary" id="btnCreateOutcome">Guardar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="AsociarOficinaModal" tabindex="-1" role="dialog" aria-labelledby="createElementLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="OficinaModalLabel">Vincular Oficina</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="formularioAsociarOficina">
+                    <div class="form-group">
+
+                         
+           
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-primary" id="btnVinculateOfficesToDiagrams">Evaluar Oficinas</button>
+            </div>
+        </div>
+    </div>
+</div>

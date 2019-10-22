@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DiagramsDB" Class="DbContextDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=SEG02;Initial Catalog=DiagramsDB;Persist Security Info=True;User ID=dgsDB" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="DiagramsDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ComparisonTable" Member="ComparisonTables">
+    <Type Name="ComparisonTable">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="unknownValue" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="idComparisonOperator" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="knownValue" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Association Name="OperatorTable_ComparisonTable" Member="OperatorTable" ThisKey="idComparisonOperator" OtherKey="id" Type="OperatorTable" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ElementTable" Member="ElementTables">
+    <Type Name="ElementTable">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="idDiagram" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="idPregunta" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="ElementTable_OutcomeTable" Member="OutcomeTable" ThisKey="id" OtherKey="id" Type="OutcomeTable" Cardinality="One" />
+      <Association Name="QuestionTable_ElementTable" Member="QuestionTable" ThisKey="idPregunta" OtherKey="Id" Type="QuestionTable" IsForeignKey="true" />
+      <Association Name="DiagramTable_ElementTable" Member="DiagramTable" ThisKey="idDiagram" OtherKey="id" Type="DiagramTable" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.OfficeTable" Member="OfficeTables">
+    <Type Name="OfficeTable">
+      <Column Name="IdOficina" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Oficina" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Association Name="OfficeTable_DiagramOfficeTable" Member="DiagramOfficeTables" ThisKey="IdOficina" OtherKey="idOffice" Type="DiagramOfficeTable" />
+    </Type>
+  </Table>
+  <Table Name="dbo.OperatorTable" Member="OperatorTables">
+    <Type Name="OperatorTable">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="operator" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="OperatorTable_ComparisonTable" Member="ComparisonTables" ThisKey="id" OtherKey="idComparisonOperator" Type="ComparisonTable" />
+      <Association Name="OperatorTable_RangeTable" Member="RangeTable" ThisKey="id" OtherKey="id" Type="RangeTable" Cardinality="One" />
+      <Association Name="OperatorTable_RangeTable1" Member="RangeTables" ThisKey="id" OtherKey="idSecondComparisonOperator" Type="RangeTable" />
+    </Type>
+  </Table>
+  <Table Name="dbo.OutcomeTable" Member="OutcomeTables">
+    <Type Name="OutcomeTable">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="idElement" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="outputType" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="idExpression" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="idNextElement" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="ElementTable_OutcomeTable" Member="ElementTable" ThisKey="id" OtherKey="id" Type="ElementTable" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.RangeTable" Member="RangeTables">
+    <Type Name="RangeTable">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="firstKnownValue" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="idFirstComparisonOperator" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="unknownValue" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Column Name="idSecondComparisonOperator" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="secondKnownValue" Type="System.Decimal" DbType="Decimal(18,2) NOT NULL" CanBeNull="false" />
+      <Association Name="OperatorTable_RangeTable" Member="OperatorTable" ThisKey="id" OtherKey="id" Type="OperatorTable" IsForeignKey="true" />
+      <Association Name="OperatorTable_RangeTable1" Member="OperatorTable1" ThisKey="idSecondComparisonOperator" OtherKey="id" Type="OperatorTable" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ExpressionTypeTable" Member="ExpressionTypeTables">
+    <Type Name="ExpressionTypeTable">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="expressionType" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.AlphabheticBooleanTable" Member="AlphabheticBooleanTables">
+    <Type Name="AlphabheticBooleanTable">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="value" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NumericValueTable" Member="NumericValueTables">
+    <Type Name="NumericValueTable">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="numValue" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ResultsTable" Member="ResultsTables">
+    <Type Name="ResultsTable">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Pregunta" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.QuestionTable" Member="QuestionTables">
+    <Type Name="QuestionTable">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Pregunta" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="Categoria" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="SubCategoria" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Association Name="QuestionTable_ElementTable" Member="ElementTables" ThisKey="Id" OtherKey="idPregunta" Type="ElementTable" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HistoricTable" Member="HistoricTables">
+    <Type Name="HistoricTable">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="idOficina" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NombreOficina" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="idDiagram" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idElement" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="idPregunta" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Pregunta" Type="System.String" DbType="VarChar(255)" CanBeNull="true" />
+      <Column Name="CategoriaElemento" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ResultadoElemento" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="idOutcome" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="valueOutput" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="date" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DiagramTable" Member="DiagramTables">
+    <Type Name="DiagramTable">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Association Name="DiagramTable_ElementTable" Member="ElementTables" ThisKey="id" OtherKey="idDiagram" Type="ElementTable" />
+      <Association Name="DiagramTable_DiagramOfficeTable" Member="DiagramOfficeTables" ThisKey="id" OtherKey="idDiagram" Type="DiagramOfficeTable" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DiagramOfficeTable" Member="DiagramOfficeTables">
+    <Type Name="DiagramOfficeTable">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="idDiagram" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="idOffice" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Association Name="DiagramTable_DiagramOfficeTable" Member="DiagramTable" ThisKey="idDiagram" OtherKey="id" Type="DiagramTable" IsForeignKey="true" />
+      <Association Name="OfficeTable_DiagramOfficeTable" Member="OfficeTable" ThisKey="idOffice" OtherKey="IdOficina" Type="OfficeTable" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.fn_GetResultado" Method="fn_GetResultado" IsComposable="true">
+    <Parameter Name="codigoOficina" Type="System.String" DbType="NVarChar(100)" />
+    <Parameter Name="tipoElemento" Type="System.String" DbType="NVarChar(100)" />
+    <Parameter Name="textoElemento" Type="System.String" DbType="NVarChar(255)" />
+    <Return Type="System.String" />
+  </Function>
+</Database>
